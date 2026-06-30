@@ -1,6 +1,6 @@
 # 🍬 Nassau Candy Distributor — Factory Reallocation & Shipping Optimization System
 
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://candy-factory.streamlit.app/)
+exit[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://candy-factory.streamlit.app/)
 
 A machine learning-powered **decision intelligence system** that recommends optimal factory assignments for Nassau Candy products — minimising shipping lead times and protecting profit margins across 5 factories and 15 products.
 
